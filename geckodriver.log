@@ -1,0 +1,493 @@
+1508013792649	geckodriver	INFO	geckodriver 0.19.0
+1508013792666	geckodriver	INFO	Listening on 127.0.0.1:40015
+1508013793827	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6LNUM0cU5FIa"
+1508013798480	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508013800867	Marionette	INFO	Enabled via --marionette
+1508013826132	Marionette	INFO	Listening on port 35645
+
+(firefox:20221): LIBDBUSMENU-GTK-CRITICAL **: dbusmenu_menuitem_property_set_shortcut: assertion 'gtk_accelerator_valid(key, modifier)' failed
+1508013830335	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508013830390	Marionette	DEBUG	Register listener.js for window 2147483649
+1508013831685	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508013832635	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508013832636	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508013834337	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1508013835801	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1508014329234	geckodriver	INFO	geckodriver 0.19.0
+1508014329236	geckodriver	INFO	Listening on 127.0.0.1:41181
+1508014329442	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MkuavRyUmtkZ"
+1508014330510	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508014331554	Marionette	INFO	Enabled via --marionette
+1508014334345	Marionette	INFO	Listening on port 40517
+1508014334374	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508014334418	Marionette	DEBUG	Register listener.js for window 2147483649
+1508014334447	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508014334599	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508014334600	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://media2.intoday.in/indiatoday/1.0.4/resources/js/jshome-2016.js, line 85: ReferenceError: $ is not defined
+JavaScript error: http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar, line 560: ReferenceError: ajaxinclude is not defined
+1508014337308	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508014340235	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1508014345475	Marionette	DEBUG	Received DOM event "pageshow" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+
+(firefox:20901): LIBDBUSMENU-GTK-CRITICAL **: dbusmenu_menuitem_property_set_shortcut: assertion 'gtk_accelerator_valid(key, modifier)' failed
+1508014375192	geckodriver	INFO	geckodriver 0.19.0
+1508014375195	geckodriver	INFO	Listening on 127.0.0.1:45007
+1508014376286	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jTePWVla1veV"
+1508014376442	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508014376964	Marionette	INFO	Enabled via --marionette
+1508014379392	Marionette	INFO	Listening on port 46361
+1508014379407	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508014379443	Marionette	DEBUG	Register listener.js for window 2147483649
+1508014379471	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508014379653	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508014379654	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://media2.intoday.in/indiatoday/1.0.4/resources/js/jshome-2016.js, line 85: ReferenceError: $ is not defined
+JavaScript error: http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar, line 560: ReferenceError: ajaxinclude is not defined
+1508014382987	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508014384213	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1508014386239	Marionette	DEBUG	Received DOM event "pageshow" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+JavaScript error: chrome://browser/content/browser.js, line 6234: TypeError: browser is undefined
+JavaScript error: chrome://browser/content/browser.js, line 4411: TypeError: gBrowser.selectedBrowser is undefined
+JavaScript error: chrome://browser/content/ext-browserAction.js, line 345: TypeError: window is null
+JavaScript error: chrome://browser/content/browser.js, line 6163: TypeError: gBrowser.selectedBrowser is undefined
+JavaScript error: chrome://browser/content/browser.js, line 4411: TypeError: gBrowser.selectedBrowser is undefined
+JavaScript error: chrome://browser/content/ext-browserAction.js, line 345: TypeError: window is null
+JavaScript error: chrome://browser/content/ext-browserAction.js, line 345: TypeError: window is null
+JavaScript error: chrome://browser/content/ext-browserAction.js, line 345: TypeError: window is null
+JavaScript error: chrome://browser/content/ext-browserAction.js, line 345: TypeError: window is null
+JavaScript error: chrome://browser/content/ext-browserAction.js, line 345: TypeError: window is null
+JavaScript error: chrome://browser/content/ext-browserAction.js, line 345: TypeError: window is null
+JavaScript error: chrome://browser/content/places/browserPlacesViews.js, line 863: TypeError: gNavigatorBundle.getString is not a function
+JavaScript error: chrome://browser/content/ext-browserAction.js, line 345: TypeError: window is null
+JavaScript error: chrome://browser/content/places/browserPlacesViews.js, line 863: TypeError: gNavigatorBundle.getString is not a function
+JavaScript error: chrome://browser/content/ext-browserAction.js, line 345: TypeError: window is null
+JavaScript error: chrome://browser/content/ext-menus.js, line 602: TypeError: tab is null
+JavaScript error: chrome://browser/content/ext-browserAction.js, line 345: TypeError: window is null
+JavaScript error: chrome://browser/content/ext-browserAction.js, line 345: TypeError: window is null
+JavaScript error: chrome://browser/content/browser-safebrowsing.js, line 16: TypeError: gBrowser.selectedBrowser is undefined
+JavaScript error: chrome://browser/content/ext-browserAction.js, line 345: TypeError: window is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 20960] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1508014679893	geckodriver	INFO	geckodriver 0.19.0
+1508014679895	geckodriver	INFO	Listening on 127.0.0.1:58669
+1508014680982	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.78PfHY9Y8tm7"
+1508014681147	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508014681687	Marionette	INFO	Enabled via --marionette
+1508014683833	Marionette	INFO	Listening on port 34077
+1508014683958	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508014683991	Marionette	DEBUG	Register listener.js for window 2147483649
+1508014684015	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508014684372	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508014684372	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://media2.intoday.in/indiatoday/1.0.4/resources/js/jshome-2016.js, line 85: ReferenceError: $ is not defined
+JavaScript error: http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar, line 560: ReferenceError: ajaxinclude is not defined
+1508014686950	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508014688001	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1508014691277	Marionette	DEBUG	Received DOM event "pageshow" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+1508014728085	geckodriver	INFO	geckodriver 0.19.0
+1508014728088	geckodriver	INFO	Listening on 127.0.0.1:37827
+1508014729178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0X00oaXTT0vK"
+1508014729338	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508014729835	Marionette	INFO	Enabled via --marionette
+1508014732019	Marionette	INFO	Listening on port 37053
+1508014732088	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508014732119	Marionette	DEBUG	Register listener.js for window 2147483649
+1508014732136	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508014737313	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508014737313	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://media2.intoday.in/indiatoday/1.0.4/resources/js/jshome-2016.js, line 85: ReferenceError: $ is not defined
+JavaScript error: http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar, line 560: ReferenceError: ajaxinclude is not defined
+1508014739700	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508014742219	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1508014746113	Marionette	DEBUG	Received DOM event "pageshow" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+1508014747384	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508014764165	geckodriver	INFO	geckodriver 0.19.0
+1508014764168	geckodriver	INFO	Listening on 127.0.0.1:50935
+1508014765260	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cRfcepy4BBFJ"
+1508014765434	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508014766065	Marionette	INFO	Enabled via --marionette
+1508014768178	Marionette	INFO	Listening on port 38145
+1508014768314	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508014768347	Marionette	DEBUG	Register listener.js for window 2147483649
+1508014768368	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508014768545	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508014768545	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://media2.intoday.in/indiatoday/1.0.4/resources/js/jshome-2016.js, line 85: ReferenceError: $ is not defined
+JavaScript error: http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar, line 560: ReferenceError: ajaxinclude is not defined
+1508014770875	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508014771802	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1508014771802	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1508014774694	Marionette	DEBUG	Received DOM event "pageshow" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+1508014775966	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508014775998	Marionette	DEBUG	Received DOM event "beforeunload" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+1508014776113	Marionette	DEBUG	Received DOM event "pagehide" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+1508014776121	Marionette	DEBUG	Received DOM event "unload" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+1508014776363	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1508014776364	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1508014776364	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1508014776365	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1508014776365	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1508014776366	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1508014776366	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483690"
+1508014776367	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483691"
+1508014776367	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483697"
+1508014776367	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1508014776367	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1508014776367	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483686"
+1508014776368	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1508014776368	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1508014776368	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1508014776368	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1508014776368	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483699"
+1508014777804	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483720"
+1508014778443	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483735"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://indiatoday.intoday.in/story/aarushi-murder-case-rajesh-talwar-nupur-talwar-dasna-jail-allahabad-hc-hemraj/1/1067800.html, line 466: TypeError: $(...).offset(...) is undefined
+1508014780115	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://indiatoday.intoday.in/story/aarushi-murder-case-rajesh-talwar-nupur-talwar-dasna-jail-allahabad-hc-hemraj/1/1067800.html"
+1508014785620	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483833"
+1508014785621	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483834"
+1508014785621	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483804"
+
+(firefox:21714): LIBDBUSMENU-GTK-CRITICAL **: dbusmenu_menuitem_property_set_shortcut: assertion 'gtk_accelerator_valid(key, modifier)' failed
+JavaScript error: chrome://browser/content/ext-menus.js, line 602: TypeError: tab is null
+JavaScript error: chrome://browser/content/ext-browserAction.js, line 345: TypeError: window is null
+JavaScript error: chrome://browser/content/browser-safebrowsing.js, line 16: TypeError: gBrowser.selectedBrowser is undefined
+JavaScript error: chrome://browser/content/ext-browserAction.js, line 345: TypeError: window is null
+1508014999530	geckodriver	INFO	geckodriver 0.19.0
+1508014999533	geckodriver	INFO	Listening on 127.0.0.1:46091
+1508015000619	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.S3jp766T2G1q"
+1508015001266	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508015001867	Marionette	INFO	Enabled via --marionette
+1508015004074	Marionette	INFO	Listening on port 42371
+1508015004190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508015004227	Marionette	DEBUG	Register listener.js for window 2147483649
+1508015004249	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508015004434	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508015004434	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://media2.intoday.in/indiatoday/1.0.4/resources/js/jshome-2016.js, line 85: ReferenceError: $ is not defined
+JavaScript error: http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar, line 560: ReferenceError: ajaxinclude is not defined
+1508015007889	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508015009012	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1508015012509	Marionette	DEBUG	Received DOM event "pageshow" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+1508015013782	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508015013818	Marionette	DEBUG	Received DOM event "beforeunload" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+1508015013935	Marionette	DEBUG	Received DOM event "pagehide" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+1508015013950	Marionette	DEBUG	Received DOM event "unload" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+1508015014076	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1508015014077	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1508015014077	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1508015014077	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1508015014078	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1508015014079	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1508015014079	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483686"
+1508015014079	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483691"
+1508015014079	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1508015014079	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1508015014079	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1508015014080	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1508015014080	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1508015014080	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1508015014080	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1508015014080	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483693"
+1508015015158	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483714"
+1508015015854	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483729"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://indiatoday.intoday.in/story/aarushi-murder-case-rajesh-talwar-nupur-talwar-dasna-jail-allahabad-hc-hemraj/1/1067800.html, line 466: TypeError: $(...).offset(...) is undefined
+1508015017575	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://indiatoday.intoday.in/story/aarushi-murder-case-rajesh-talwar-nupur-talwar-dasna-jail-allahabad-hc-hemraj/1/1067800.html"
+1508015023455	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483832"
+1508015023455	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483833"
+1508015023455	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483799"
+1508015026306	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483852"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1508015026971	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483879"
+1508015029667	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483921"
+1508015029669	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483807"
+1508015029672	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483920"
+1508015029672	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483858"
+1508015032792	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483941"
+1508015032792	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483939"
+1508015032792	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483937"
+1508015032793	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483942"
+1508015032793	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483834"
+1508015033647	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483953"
+1508015033648	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483943"
+1508015034236	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483958"
+1508015034236	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483949"
+1508015035223	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483970"
+1508015035224	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483966"
+1508015035794	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483968"
+1508015035794	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483962"
+1508015043660	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483892"
+1508015043660	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483871"
+1508015044169	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483984"
+1508015044169	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483982"
+1508015045186	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483990"
+1508015045188	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483988"
+1508015046444	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483986"
+1508015047482	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483994"
+1508015047482	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483992"
+1508015048536	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484000"
+1508015048536	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483998"
+1508015048551	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483996"
+1508015049237	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484004"
+1508015050236	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483812"
+1508015050236	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483813"
+1508015050236	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483814"
+1508015050236	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483815"
+1508015050237	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483816"
+1508015050237	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483817"
+1508015050237	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483818"
+1508015050237	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483819"
+1508015050238	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483820"
+1508015052354	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483980"
+1508015052354	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483976"
+1508015058058	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484021"
+1508015058058	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483934"
+1508015062909	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484025"
+1508015065127	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484027"
+1508015067258	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484029"
+1508015069388	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484031"
+1508015071358	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484033"
+1508015073336	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484035"
+1508015075354	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484041"
+1508015078018	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484043"
+1508015080536	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484045"
+1508015081552	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484047"
+1508015081552	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483978"
+1508015081857	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483801"
+1508015081858	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483964"
+1508015081858	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483960"
+1508015081858	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484019"
+1508015081858	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484017"
+1508015081858	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484039"
+1508015081858	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484037"
+1508015081859	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483805"
+1508015082072	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484049"
+1508015082073	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483972"
+1508015082832	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484051"
+1508015084437	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484057"
+1508015084437	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484053"
+1508015085109	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484061"
+1508015085428	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484059"
+1508015085428	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484055"
+1508015085924	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484023"
+1508015086932	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483898"
+1508015086932	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483884"
+1508015086933	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483874"
+1508015086933	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483908"
+1508015086933	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483830"
+1508015088941	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484067"
+1508015088941	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484063"
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+1508015092287	Marionette	DEBUG	Received DOM event "pageshow" for "http://indiatoday.intoday.in/story/aarushi-murder-case-rajesh-talwar-nupur-talwar-dasna-jail-allahabad-hc-hemraj/1/1067800.html"
+JavaScript error: http://media2.intoday.in/indiatoday/1.0.4/resources/js/jshome-2016.js, line 85: ReferenceError: $ is not defined
+JavaScript error: http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar, line 560: ReferenceError: ajaxinclude is not defined
+1508015092582	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483735"
+1508015092582	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483951"
+1508015092582	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483703"
+1508015092583	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483701"
+1508015092583	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483699"
+1508015092584	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483916"
+1508015092584	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483906"
+1508015092584	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483868"
+1508015092585	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483860"
+1508015092585	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483705"
+1508015092586	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483709"
+1508015092586	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483708"
+1508015092587	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483974"
+1508015092587	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483956"
+1508015092588	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484069"
+1508015092588	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484065"
+1508015092588	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484074"
+1508015092588	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484072"
+1508015092588	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483707"
+1508015092589	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483713"
+1508015092589	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483739"
+1508015092589	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483721"
+1508015092589	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483915"
+1508015092589	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483899"
+1508015092590	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483910"
+1508015092590	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483933"
+1508015092590	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483927"
+1508015092590	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483809"
+1508015092590	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484012"
+1508015092590	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484007"
+1508015092591	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484010"
+1508015092591	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484002"
+1508015092591	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483724"
+1508015092591	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483751"
+1508015092591	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483850"
+1508015092592	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483753"
+1508015092592	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483746"
+1508015092592	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483756"
+1508015092592	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483730"
+1508015092592	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483734"
+1508015092592	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483732"
+1508015092593	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483727"
+1508015092593	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483742"
+1508015092593	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483744"
+1508015092593	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484015"
+1508015092593	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483786"
+1508015092594	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483758"
+1508015092594	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483759"
+1508015092594	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483760"
+1508015092594	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483761"
+1508015092594	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483762"
+1508015092594	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483787"
+1508015092595	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483763"
+1508015092595	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483764"
+1508015092595	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483765"
+1508015092595	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483766"
+1508015092595	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483846"
+1508015092595	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483847"
+1508015092596	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483848"
+1508015092596	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483889"
+1508015092596	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483849"
+1508015092596	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483767"
+1508015092596	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483768"
+1508015092596	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483748"
+1508015092597	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483904"
+1508015092597	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483780"
+1508015092597	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483867"
+1508015092597	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483841"
+1508015092597	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483902"
+1508015092597	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483842"
+1508015092598	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483783"
+1508015092598	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483793"
+1508015092598	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483795"
+1508015092598	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483797"
+1508015092598	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483803"
+1508015094197	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508015094766	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147484082"
+1508015095919	Marionette	DEBUG	Received DOM event "pageshow" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+1508015300122	geckodriver	INFO	geckodriver 0.19.0
+1508015300125	geckodriver	INFO	Listening on 127.0.0.1:48385
+1508015301220	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5V46QJY8iNXi"
+1508015301540	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508015302397	Marionette	INFO	Enabled via --marionette
+1508015304549	Marionette	INFO	Listening on port 36337
+1508015304686	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508015304734	Marionette	DEBUG	Register listener.js for window 2147483649
+1508015304768	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508015304999	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508015305000	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://media2.intoday.in/indiatoday/1.0.4/resources/js/jshome-2016.js, line 85: ReferenceError: $ is not defined
+JavaScript error: http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar, line 560: ReferenceError: ajaxinclude is not defined
+1508015307665	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508015310077	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1508015313959	Marionette	DEBUG	Received DOM event "pageshow" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+
+(firefox:22846): LIBDBUSMENU-GTK-CRITICAL **: dbusmenu_menuitem_property_set_shortcut: assertion 'gtk_accelerator_valid(key, modifier)' failed
+1508015898417	geckodriver	INFO	geckodriver 0.19.0
+1508015898422	geckodriver	INFO	Listening on 127.0.0.1:53739
+1508015899514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.y3eFGNTZsQ9S"
+1508015899807	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508015900385	Marionette	INFO	Enabled via --marionette
+1508015903655	Marionette	INFO	Listening on port 44433
+1508015903728	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508015903759	Marionette	DEBUG	Register listener.js for window 2147483649
+1508015903781	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508015904057	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508015904058	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://media2.intoday.in/indiatoday/1.0.4/resources/js/jshome-2016.js, line 85: ReferenceError: $ is not defined
+JavaScript error: http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar, line 560: ReferenceError: ajaxinclude is not defined
+1508015906707	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508015907869	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1508015911449	Marionette	DEBUG	Received DOM event "pageshow" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+
+(firefox:23403): LIBDBUSMENU-GTK-CRITICAL **: dbusmenu_menuitem_property_set_shortcut: assertion 'gtk_accelerator_valid(key, modifier)' failed
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1508015932514	geckodriver	INFO	geckodriver 0.19.0
+1508015932517	geckodriver	INFO	Listening on 127.0.0.1:45697
+1508015933604	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nes0XGljkOH2"
+1508015933807	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508015934308	Marionette	INFO	Enabled via --marionette
+1508015936424	Marionette	INFO	Listening on port 39743
+1508015936525	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508015936566	Marionette	DEBUG	Register listener.js for window 2147483649
+1508015936600	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508015936775	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508015936775	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://media2.intoday.in/indiatoday/1.0.4/resources/js/jshome-2016.js, line 85: ReferenceError: $ is not defined
+JavaScript error: http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar, line 560: ReferenceError: ajaxinclude is not defined
+1508015939307	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508015940988	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1508015944443	Marionette	DEBUG	Received DOM event "pageshow" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+1508015945734	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508015945741	Marionette	DEBUG	Received DOM event "beforeunload" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+1508015945819	Marionette	DEBUG	Received DOM event "pagehide" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+1508015945831	Marionette	DEBUG	Received DOM event "unload" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+JavaScript error: http://media2.intoday.in/indiatoday/1.0.4/resources/js/jshome-2016.js, line 85: ReferenceError: $ is not defined
+JavaScript error: http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar, line 560: ReferenceError: ajaxinclude is not defined
+1508015945961	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1508015945961	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1508015945962	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1508015945962	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1508015945962	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1508015945963	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1508015945963	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483690"
+1508015945963	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483691"
+1508015945964	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483697"
+1508015945964	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1508015945964	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1508015945964	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1508015945964	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1508015945964	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1508015945965	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1508015945965	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1508015945965	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1508015945965	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483699"
+1508015947462	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508015948077	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483708"
+1508015948080	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483710"
+1508015949954	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483749"
+1508015951111	Marionette	DEBUG	Received DOM event "pageshow" for "http://indiatoday.intoday.in/advanced_search.jsp?option=com_search&searchword=arushi+talwar"
+
+(firefox:23595): LIBDBUSMENU-GTK-CRITICAL **: dbusmenu_menuitem_property_set_shortcut: assertion 'gtk_accelerator_valid(key, modifier)' failed
+JavaScript error: chrome://browser/content/ext-menus.js, line 602: TypeError: tab is null
+JavaScript error: chrome://browser/content/ext-browserAction.js, line 345: TypeError: window is null
+JavaScript error: chrome://browser/content/browser-safebrowsing.js, line 16: TypeError: gBrowser.selectedBrowser is undefined
+JavaScript error: chrome://browser/content/ext-browserAction.js, line 345: TypeError: window is null
