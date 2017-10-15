@@ -1,4 +1,4 @@
-<!DOCTYPE html>
++<!DOCTYPE html>
 <html >
 <head>
   <meta charset="UTF-8">
@@ -17,17 +17,22 @@
 <div class="box">
             <ul id="first-list">
             {% for i in events %}
+
+            <!-- for loop for data in json events -->
                 
                 <li>
                     <span></span>
+                    <a href='{{ i.url_of_headline }}'>
                     <div class="title">{{ i.date }}</div>
-                    <div class="info">{{ i.summary }}</div>
+                    <div class="info">{{ i.headline }}</div>
                     <!-- <div class="name">- dr. mohamed -</div> -->
                     <div class="time">
                         <!-- <span>JUN, 17<sup>th</sup></span> -->
                         <!-- <span>12:00 AM</span> -->
+                       
                     </div>
                 </li>
+                 </a>
                 {% endfor %}
                 
                 <div class="arrow" id="btn1">
